@@ -1,5 +1,7 @@
 # LawAI
-Uses GPT-2 AI model trained with Brazilian law books to create legal texts by artificial intelligence.
+Uses GPT-2 AI model trained with Brazilian law books to create legal texts by artificial intelligence. The texts are generated in Brazilian portuguese.
+
+This technique is called Natural Language Processing and uses deep neural networks to achieve impressive coherent btches of texts very similar to law texts produced by humans.
 
 This AI model was trained with the following Brazilian law books:
 
